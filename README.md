@@ -1,11 +1,11 @@
-About fastfilters2
-==================
+About fastfilters2-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fastfilters2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ilastik/fastfilters2
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fastfilters2-feedstock/blob/main/LICENSE.txt)
 
 Summary: SIMD-accelerated 2D and 3D image features
 
